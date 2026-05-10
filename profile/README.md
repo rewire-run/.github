@@ -1,7 +1,7 @@
 <h1>
 <p align="center">
   <a href="https://rewire.run">
-    <img alt="rewire" src="https://github.com/user-attachments/assets/d22f718a-87e7-4740-aa1e-1716fc3f7328">
+    <img alt="rewire" src="https://github.com/user-attachments/assets/0a77b965-e6d9-4f17-882c-4b89c1a3c102">
   </a>
 </h1>
   <p align="center">
